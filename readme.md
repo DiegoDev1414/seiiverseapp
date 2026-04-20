@@ -48,7 +48,7 @@ Nacida de un proyecto de hardware (¡sí, estamos construyendo una Wii custom!),
 | 👑 **Founder & Owner** | **Jamineconer** (Jaime) | Visionario, diseño de assets y dirección creativa |
 | 💻 **Lead Developer** | **DiegoDev** | *"Programó todo"* - Desarrollo completo de la plataforma |
 | 🤝 **Co-Founder** | **Seii** | Gestión de comunidad y creador del canal Discord |
-| 🔧 **Co-Founder** | **Alepro** | Proyecto Wii hardware (modificación de consola física) |
+| 🔧 **Co-Founder** | **Alepro** | Gestión de comunidad |
 
 </div>
 
